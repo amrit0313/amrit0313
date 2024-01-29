@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amrit0313
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning computer engineering
+- 👋 Hey! its Amrit
+- 👀 web developer
+- 🌱 currently studying computer engineering
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me 
 
