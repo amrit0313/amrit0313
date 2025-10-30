@@ -52,11 +52,5 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit0313&theme=radical" alt="GitHub Trophies" /></a>
 </p>
-
-### Featured Projects:
-- **[Project1 Name](link-to-repo)**: Brief desc—e.g., A React app that [does cool thing]. Built with [tools]. Stars: X | Forks: Y.
-- **[Project2 Name](link-to-repo)**: Another one—show off your best work here.
-- Pin your top repos in GitHub settings for auto-showcase.
-
 Thanks for stopping by! Let's build something epic. 🚀
 
