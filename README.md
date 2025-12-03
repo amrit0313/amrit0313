@@ -4,10 +4,11 @@
 
 # Hi 👋, I'm Amrit Gnawali
 
-### A Passionate Frontend Developer from Nepal, Turning Pixels into Magic
+### A Passionate Full Stack Developer from Nepal, Turning Pixels into Magic
 
 - 🔭 Currently building sleek UIs that don't crash on IE (RIP).
 - 🌱 Diving deep into **JavaScript, React, and Next.js**—because vanilla JS is for ice cream.
+- And of course backend with node, same the js one, I do with django too.
 - 💬 Ask me about frontend wizardry, Nepal's tech scene, or why CSS is both a blessing and a curse.
 - 📫 Reach me at **amrtz0313@gmail.com** (or carrier pigeon if you're old-school).
 - ⚡ Fun Fact: I code at altitudes that make servers dizzy—Everest vibes fuel my debug sessions.
