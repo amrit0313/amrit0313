@@ -7,7 +7,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=amrit0313&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/amrit0313)
 [![Twitter Follow](https://img.shields.io/twitter/follow/amrtz987?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/amrtz987)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amrit-gnawali-00a88828b)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amrit-gyawali)
 
 </div>
 
