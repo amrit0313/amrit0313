@@ -37,11 +37,11 @@ I'm a passionate developer who transforms ideas into elegant digital solutions. 
 <tr>
 <td width="50%">
 
-#### 📊 Next.js Dashboard
-A modern, full-stack dashboard application built with Next.js 14, featuring server-side rendering and dynamic routes.
+#### 📊 AmrtzBooks
+A modern, full-stack dashboard application built with react.js,and node.js.
 
-**Tech:** Next.js, TypeScript, React  
-🔗 **[Live Demo](https://nextjs-dashboard-virid-six-37.vercel.app)** | 📂 [Repo](https://github.com/amrit0313/nextProject)
+**Tech:** Nodejs, TypeScript, React  
+🔗 **[Live Demo](https://amrtzbooks.netlify.app)** | 
 
 </td>
 <td width="50%">
