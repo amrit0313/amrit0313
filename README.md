@@ -20,7 +20,7 @@ const amrit = {
     location: "Nepal 🇳🇵",
     role: "Full Stack Developer",
     passions: ["Web Development", "Machine Learning", "Clean Code", "Problem Solving"],
-    currentFocus: ["Next.js", "TypeScript", "PyTorch", "FastAPI"],
+    currentFocus: ["Nest.js", "TypeScript", "Next.js", "FastAPI"],
     funFact: "I debug at altitudes higher than most servers will ever see! ⛰️"
 };
 ```
