@@ -4,7 +4,6 @@
 
 ### Full Stack Developer | AI/ML Enthusiast | Problem Solver
 ### 🏔️ Building from the Himalayas, Deploying to the World
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amrit-gyawali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-green-c72oco2aai.vercel.app)
 
 </div>
