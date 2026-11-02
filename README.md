@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/Website-amritgnawali.com.np-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://amritgnawali.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-gnawali-00a88828b)
 [![GitHub followers](https://img.shields.io/github/followers/amrit0313?style=flat-square&label=Followers&color=111827)](https://github.com/amrit0313?tab=followers)
-[![Public repositories](https://img.shields.io/badge/Public%20repositories-40%2B-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/amrit0313?tab=repositories)
 
 </div>
 
