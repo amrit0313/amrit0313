@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI/ML Enthusiast | Problem Solver
 ### 🏔️ Building from the Himalayas, Deploying to the World
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-green-c72oco2aai.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://amritgnawali.com.np)
 
 </div>
 
